@@ -2,7 +2,7 @@
 I am a Data Analyst with a background in retail, hospitality and distribution
 
 # 🌐 Socials:
-[<img width="50" height="40" alt="Sans titre (50 x 40 px)" src="https://github.com/user-attachments/assets/600db63b-2298-4457-b1df-23f769c1ec2c" />
+[<img width="40" height="40" alt="Création sans titre (1)" src="https://github.com/user-attachments/assets/c3d0aa6a-8dba-4d1e-8a92-4bc11d0d9b53" />
 ](www.linkedin.com/in/vwede-okojie)
 
 
